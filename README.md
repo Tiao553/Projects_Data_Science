@@ -15,7 +15,7 @@ My credentials include student in Bachelor of Control and Automation Engineering
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os projetos nos link's abaixo: 
 
 * **Como identificar o melhor aprendizado em banco de dados com classe de classificação** Link em andamento
 * **Como Tratar Dados Ausentes com Pandas:** Link em andamento
