@@ -12,7 +12,7 @@ My credentials include student in Bachelor of Control and Automation Engineering
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-ferreira-de-paula-neto-84673216b/)
-* [medium](https://medium.com/@sebastiao553)
+* [Medium](https://medium.com/@sebastiao553)
 * [Sigmoidal](https://sigmoidal.ai/)
 
 
