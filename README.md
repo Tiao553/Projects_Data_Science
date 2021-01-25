@@ -17,9 +17,14 @@ My credentials include student in Bachelor of Control and Automation Engineering
 ## Projetos:
 Veja os projetos nos link's abaixo: 
 
-* **Como identificar o melhor aprendizado em banco de dados com classe de classificação** Link em andamento
-* **Como Tratar Dados Ausentes com Pandas:** Link em andamento
-* **Como criar uma Wordcloud em Python:** Link em andamento
-* **Como lidar com dados desbalanceados:** Link em andamento
+* **Classificação de renda :**                                Link em andamento
+* **Uso comum das bibliotecas pandas e pandas profile :**     Link em andamento
+* **Uso comum das bibliotecas matplotlib e seaborn :**        Link em andamento
+* **Uso comum das bibliotecas folium e scipy :**              Link em andamento
+* **Uso comum das bibliotecas streamlit e pydeck :**          Link em andamento
+* **Uso comum das bibliotecas streamlit e pydeck :**          Link em andamento
+* **Como criar uma Wordcloud em Python :**                    Link em andamento
+* **Como lidar com dados desbalanceados :**                   Link em andamento
+* **Analise de dados do Airbib cidade Belo Horizonte :**      Link em andamento
 
 ---
