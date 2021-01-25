@@ -17,14 +17,14 @@ My credentials include student in Bachelor of Control and Automation Engineering
 ## Projetos:
 Veja os projetos nos link's abaixo: 
 
-* **Classificação de renda :**                                Link em andamento
-* **Uso comum das bibliotecas pandas e pandas profile :**     Link em andamento
-* **Uso comum das bibliotecas matplotlib e seaborn :**        Link em andamento
-* **Uso comum das bibliotecas folium e scipy :**              Link em andamento
-* **Uso comum das bibliotecas streamlit e pydeck :**          Link em andamento
-* **Uso comum das bibliotecas streamlit e pydeck :**          Link em andamento
-* **Como criar uma Wordcloud em Python :**                    Link em andamento
-* **Como lidar com dados desbalanceados :**                   Link em andamento
-* **Analise de dados do Airbib cidade Belo Horizonte :**      Link em andamento
+* **Classificação de renda :**                                [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
+* **Uso comum das bibliotecas pandas e pandas profile :**     [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
+* **Uso comum das bibliotecas matplotlib e seaborn :**        [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
+* **Uso comum das bibliotecas folium e scipy :**              [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
+* **Uso comum das bibliotecas streamlit e pydeck :**          [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
+* **Uso comum das bibliotecas streamlit e pydeck :**          [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
+* **Como criar uma Wordcloud em Python :**                    [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
+* **Como lidar com dados desbalanceados :**                   [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
+* **Analise de dados do Airbib cidade Belo Horizonte :**      [Link_em_andamento]("https://github.com/Tiao553/Projects_Data_Science")
 
 ---
