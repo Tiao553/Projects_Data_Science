@@ -19,6 +19,7 @@ My credentials include student in Bachelor of Control and Automation Engineering
 ## Projetos:
 Veja os projetos nos link's abaixo: 
 
+* **Análise dos Dados do Airbnb - Buenos Aires, Argentina :** [link](https://bit.ly/3oEmHsP)
 * **Classificação de renda :**                                [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
 * **Uso comum das bibliotecas pandas e pandas profile :**     [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
 * **Uso comum das bibliotecas matplotlib e seaborn :**        [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
