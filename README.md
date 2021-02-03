@@ -15,19 +15,18 @@ My credentials include student in Bachelor of Control and Automation Engineering
 * [Medium](https://medium.com/@sebastiao553)
 * [Sigmoidal](https://sigmoidal.ai/)
 
+## **Quer aprender python, acesse meus tutoriais o link:**  [Link](https://github.com/Tiao553/Learing_of_python)
+
 
 ## Projetos:
 Veja os projetos nos link's abaixo: 
 
 * **Análise dos Dados do Airbnb - Buenos Aires, Argentina :** [link](https://bit.ly/3oEmHsP)
-* **Classificação de renda :**                                [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
+* **Machine Learing para detecção de preço de casas :**       [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
 * **Uso comum das bibliotecas pandas e pandas profile :**     [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Uso comum das bibliotecas matplotlib e seaborn :**        [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Uso comum das bibliotecas folium e scipy :**              [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Uso comum das bibliotecas streamlit e pydeck :**          [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Uso comum das bibliotecas Sklearn e opneCV :**            [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
+* **Como criar o graficos vizualmente melhore com python :*   [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
+* **Como criar um dashbord inteligente usando python :*       [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
 * **Como criar uma Wordcloud em Python :**                    [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
 * **Como lidar com dados desbalanceados :**                   [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Analise de dados do Airbib cidade Belo Horizonte :**      [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
 
 ---
