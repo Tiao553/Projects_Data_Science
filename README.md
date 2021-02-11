@@ -16,12 +16,14 @@ My credentials include student in Bachelor of Control and Automation Engineering
 * [Sigmoidal](https://sigmoidal.ai/)
 
 ## **Quer aprender python, acesse meus tutoriais o link:**  [Link](https://github.com/Tiao553/Learing_of_python)
+## **Aprenda estatística para Ciência de dados, link em breve.**
 
 
 ## Projetos:
 Veja os projetos nos link's abaixo: 
 
 * **Análise dos Dados do Airbnb - Buenos Aires, Argentina :** [link](https://bit.ly/3oEmHsP)
+* **Criando infomapas com folium e JSON:** [Link](https://bit.ly/2NgjB1e)
 * **Machine Learing para detecção de preço de casas :**       [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
 * **Uso comum das bibliotecas pandas e pandas profile :**     [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
 * **Como criar o graficos vizualmente melhore com python :*   [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
