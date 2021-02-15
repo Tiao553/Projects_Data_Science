@@ -24,11 +24,6 @@ Veja os projetos nos link's abaixo:
 
 * **Análise dos Dados do Airbnb - Buenos Aires, Argentina :** [link](https://bit.ly/3oEmHsP)
 * **Criando infomapas com folium e JSON:** [Link](https://bit.ly/2NgjB1e)
-* **Machine Learing para detecção de preço de casas :**       [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Uso comum das bibliotecas pandas e pandas profile :**     [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Como criar o graficos vizualmente melhore com python :*   [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Como criar um dashbord inteligente usando python :*       [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Como criar uma Wordcloud em Python :**                    [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
-* **Como lidar com dados desbalanceados :**                   [Link_em_andamento](https://github.com/Tiao553/Projects_Data_Science)
+* **Features engineering, learn interactively:** [link](https://www.linkedin.com/pulse/would-you-like-see-interactive-form-feature-ferreira-de-paula-neto/?trackingId=aGkbqpVpQ%2BqLf4YjyiANsA%3D%3D)
 
 ---
