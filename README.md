@@ -16,7 +16,7 @@ My credentials include student in Bachelor of Control and Automation Engineering
 * [Sigmoidal](https://sigmoidal.ai/)
 
 ## **Quer aprender python, acesse meus tutoriais o link:**  [Link](https://github.com/Tiao553/Learing_of_python)
-## **Aprenda estatística para Ciência de dados, link em breve.**
+## **[EM CONSTRUÇÃO] Aprenda estatística para Ciência de dados,** [Link](https://bit.ly/3u8RfqT)
 
 
 ## Projetos:
