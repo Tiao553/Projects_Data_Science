@@ -15,7 +15,7 @@ My credentials include student in Bachelor of Control and Automation Engineering
 * [Medium](https://medium.com/@sebastiao553)
 * [Sigmoidal](https://sigmoidal.ai/)
 
-## **[EM CONSTRUÇÃO] Quer aprender python, acesse meus tutoriais o link:**  [Link](https://github.com/Tiao553/Learing_of_python)
+## **[EM CONSTRUÇÃO] Quer aprender python, acesse meus tutoriais o link:**  [Link](https://bit.ly/3kaLN1O)
 ## **[EM CONSTRUÇÃO] Aprenda estatística para Ciência de dados,** [Link](https://bit.ly/3u8RfqT)
 
 
