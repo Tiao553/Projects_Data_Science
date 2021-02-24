@@ -15,12 +15,12 @@ My credentials include student in Bachelor of Control and Automation Engineering
 * [Medium](https://medium.com/@sebastiao553)
 * [Sigmoidal](https://sigmoidal.ai/)
 
-## **[IN BUILDING]  Python Learning Guide, **  [Link](https://bit.ly/3kaLN1O) [EN-US]
+## **[IN BUILDING]  Python Learning Guide,**  [Link](https://bit.ly/3kaLN1O) [EN-US]
 ## **[IN BUILDING] Learn statistics for data sciences,** [Link](https://bit.ly/3u8RfqT) [PT-BR]
 
 
-## Projetos:
-Veja os projetos nos link's abaixo: 
+## Projects:
+See the projects in the links below: 
 
 * **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] : :** [link](https://bit.ly/3oEmHsP)
 * **Creating infomaps with folium and JSON [PT-BR]:** [Link](https://bit.ly/2NgjB1e)
