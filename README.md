@@ -2,8 +2,6 @@
 <p align="center">
   <img src="Banner1.png" >
 </p>
-
-# Sebastião Ferreira de Paula Neto
 <sub>*Lead Data Scientist*</sub>
 
 My credentials include student in Bachelor of Control and Automation Engineering at the Federal University of Itajubá, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
