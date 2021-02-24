@@ -2,8 +2,9 @@
 <p align="center">
   <img src="Banner1.png" >
 </p>
-<sub>*Lead Data Scientist*</sub>
 
+<sub>*Lead Data Scientist*</sub>
+---
 My credentials include student in Bachelor of Control and Automation Engineering at the Federal University of Itajubá, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
 
 **Background in:** Python, Machine Learning, Deep Learning and Mathematical Optimisation.
