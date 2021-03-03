@@ -24,10 +24,11 @@ My credentials include student in Bachelor of Control and Automation Engineering
 ## Projects:
 See the projects in the links below: 
 
-* **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] : :** [link](https://bit.ly/3oEmHsP)
+* **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] :** [link](https://bit.ly/3oEmHsP)
 ---
 * **Creating infomaps with folium and JSON [PT-BR]:** [Link](https://bit.ly/2NgjB1e)
 ---
 * **Features engineering, learn interactively [EN-US]:** [link](https://www.linkedin.com/pulse/would-you-like-see-interactive-form-feature-ferreira-de-paula-neto/?trackingId=aGkbqpVpQ%2BqLf4YjyiANsA%3D%3D)
-
+---
+* **Analyzing the Violence in Rio de Janeiro [PT-BR] :** [link](https://bit.ly/3qcvT8u)
 ---
