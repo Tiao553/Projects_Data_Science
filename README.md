@@ -22,16 +22,15 @@ My credentials include student in Bachelor of Control and Automation Engineering
 See the projects in the links below: 
 ---
 
-### **[IN BUILDING]  Python Learning Guide,**  [Link](https://bit.ly/3kaLN1O) [EN-US]
-### **[IN BUILDING] Learn statistics for data sciences,** [Link](https://bit.ly/3u8RfqT) [PT-BR]
+* **[IN BUILDING]  Python Learning Guide,**  [Link](https://bit.ly/3kaLN1O) [EN-US]
+* **[IN BUILDING] Learn statistics for data sciences,** [Link](https://bit.ly/3u8RfqT) [PT-BR]
 
 * **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] :** [link](https://bit.ly/3oEmHsP)
----
 * **Creating infomaps with folium and JSON [PT-BR]:** [Link](https://bit.ly/2NgjB1e)
----
 * **Features engineering, learn interactively [EN-US]:** [link](https://www.linkedin.com/pulse/would-you-like-see-interactive-form-feature-ferreira-de-paula-neto/?trackingId=aGkbqpVpQ%2BqLf4YjyiANsA%3D%3D)
----
+
 * **Analyzing the Violence in Rio de Janeiro [PT-BR] :** [link](https://bit.ly/3qcvT8u)
+
 ---
 
 ## Projects about the Data enginer:
