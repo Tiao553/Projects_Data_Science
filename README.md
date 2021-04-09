@@ -3,13 +3,14 @@
   <img src="Banner1.png" >
 </p>
 
-<sub>*Lead Data Scientist*</sub>
+<sub>*Lead Data Scientist and Engineer*</sub>
 
 ---
 
 My credentials include student in Bachelor of Control and Automation Engineering at the Federal University of Itajubá, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
 
 **Background in:** Python, Machine Learning, Deep Learning and Mathematical Optimisation.
+**Background in:** MySQL, SQL, PostgreSQL, SQLite, MongoDB, Redis, Firebase, Java e Python
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-ferreira-de-paula-neto-84673216b/)
@@ -17,12 +18,12 @@ My credentials include student in Bachelor of Control and Automation Engineering
 * [Sigmoidal](https://sigmoidal.ai/)
 
 ---
-## **[IN BUILDING]  Python Learning Guide,**  [Link](https://bit.ly/3kaLN1O) [EN-US]
-## **[IN BUILDING] Learn statistics for data sciences,** [Link](https://bit.ly/3u8RfqT) [PT-BR]
-
----
-## Projects:
+## Projects about the Data Science:
 See the projects in the links below: 
+---
+
+### **[IN BUILDING]  Python Learning Guide,**  [Link](https://bit.ly/3kaLN1O) [EN-US]
+### **[IN BUILDING] Learn statistics for data sciences,** [Link](https://bit.ly/3u8RfqT) [PT-BR]
 
 * **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] :** [link](https://bit.ly/3oEmHsP)
 ---
@@ -32,3 +33,11 @@ See the projects in the links below:
 ---
 * **Analyzing the Violence in Rio de Janeiro [PT-BR] :** [link](https://bit.ly/3qcvT8u)
 ---
+
+## Projects about the Data enginer:
+
+## MySQL -> The manipulation codes are in the "Modelagem" folder.
+
+* **Database generating invoice:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/notafiscal.png)
+* **Database for a popsicle factory:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/fabrica_picole_my.png)
+* **Database for a real application in a pharmacy:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/DrogariaAvenida.png)
