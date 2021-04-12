@@ -23,8 +23,10 @@ My credentials include student in Bachelor of Control and Automation Engineering
 * [Sigmoidal](https://sigmoidal.ai/)
 
 ---
+# See the projects in the links below: 
+
+
 ## Projects about the Data Science:
-See the projects in the links below: 
 ---
 
 * **[IN BUILDING]  Python Learning Guide,**  [Link](https://bit.ly/3kaLN1O) [EN-US]
