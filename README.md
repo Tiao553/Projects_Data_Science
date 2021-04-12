@@ -40,7 +40,7 @@ My credentials include student in Bachelor of Control and Automation Engineering
 
 ---
 
-## Projects about the Data enginer:
+## Projects about the Data engineer:
 
 ### MySQL:
 
