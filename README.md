@@ -35,8 +35,17 @@ See the projects in the links below:
 
 ## Projects about the Data enginer:
 
-## MySQL -> The manipulation codes are in the "Modelagem" folder.
+### MySQL -> The manipulation codes are in the "Modelagem" folder.
 
 * **Database generating invoice:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/notafiscal.png)
 * **Database for a popsicle factory:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/fabrica_picole_my.png)
 * **Database for a real application in a pharmacy:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/DrogariaAvenida.png)
+
+### PySpark:
+
+* Gettin Started: [link](https://bit.ly/3e0v8v8) -> references: [Datacamp](https://learn.datacamp.com/courses/introduction-to-pyspark)
+
+### Airflow:
+
+
+### Manipulating data with **pandas**:
