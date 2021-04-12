@@ -40,7 +40,7 @@ See the projects in the links below:
 
 ## Projects about the Data enginer:
 
-### MySQL -> The manipulation codes are in the "Modelagem" folder.
+### MySQL:
 
 * **Database generating invoice:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/notafiscal.png)
 * **Database for a popsicle factory:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/fabrica_picole_my.png)
