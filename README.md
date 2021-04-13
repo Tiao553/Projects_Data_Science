@@ -20,7 +20,6 @@ My credentials include student in Bachelor of Control and Automation Engineering
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-ferreira-de-paula-neto-84673216b/)
 * [Medium](https://medium.com/@sebastiao553)
-* [Sigmoidal](https://sigmoidal.ai/)
 
 ---
 # See the projects in the links below: 
@@ -28,31 +27,37 @@ My credentials include student in Bachelor of Control and Automation Engineering
 
 ## Projects about the Data Science:
 ---
-
-* **[IN BUILDING]  Python Learning Guide,**  [Link](https://bit.ly/3kaLN1O) [EN-US]
-* **[IN BUILDING] Learn statistics for data sciences,** [Link](https://bit.ly/3u8RfqT) [PT-BR]
-
-* **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] :** [link](https://bit.ly/3oEmHsP)
+> ### **learning:**
+* **[IN BUILDING]  Python Learning Guide [EN-US]:**  [Link](https://bit.ly/3kaLN1O) 
+* **[IN BUILDING] Learn statistics for data sciences [PT-BR]:** [Link](https://bit.ly/3u8RfqT) 
 * **Creating infomaps with folium and JSON [PT-BR]:** [Link](https://bit.ly/2NgjB1e)
 * **Features engineering, learn interactively [EN-US]:** [link](https://www.linkedin.com/pulse/would-you-like-see-interactive-form-feature-ferreira-de-paula-neto/?trackingId=aGkbqpVpQ%2BqLf4YjyiANsA%3D%3D)
 
+> ### **Analyzes:**
+* **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] :** [link](https://bit.ly/3oEmHsP)
 * **Analyzing the Violence in Rio de Janeiro [PT-BR] :** [link](https://bit.ly/3qcvT8u)
+
+> ### **Machine Learning:**
+ 
+
+> ### **Deep Learning:**
+
 
 ---
 
 ## Projects about the Data engineer:
 
-### MySQL:
+> ### **MySQL**:
 
 * **Database generating invoice:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/notafiscal.png)
 * **Database for a popsicle factory:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/fabrica_picole_my.png)
 * **Database for a real application in a pharmacy:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/DrogariaAvenida.png)
 
-### PySpark:
+> ### **PySpark**:
 
 * Gettin Started: [link](https://bit.ly/3e0v8v8) -> references: [Datacamp](https://learn.datacamp.com/courses/introduction-to-pyspark)
 
-### Airflow:
+> ### **Airflow**:
 
 
-### Manipulating data with **pandas**:
+> ### Manipulating data with **pandas**:
