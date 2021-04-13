@@ -55,9 +55,12 @@ My credentials include student in Bachelor of Control and Automation Engineering
 
 > ### **PySpark**:
 
-* Gettin Started: [link](https://bit.ly/3e0v8v8) 
+* **Gettin Started [PT-BR]: ** [link](https://bit.ly/3e0v8v8) 
 
 > ### **Airflow**:
 
 
-> ### Manipulating data with **pandas**:
+> ### Manipulating data ans good's pratices:
+
+* **Data manipulating with pandas [PT-BR]:** [Link](https://bit.ly/2OLFaId)
+* 
