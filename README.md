@@ -55,7 +55,7 @@ My credentials include student in Bachelor of Control and Automation Engineering
 
 > ### **PySpark**:
 
-* **Gettin Started [PT-BR]: ** [link](https://bit.ly/3e0v8v8) 
+* **Gettin Started [PT-BR]:** [link](https://bit.ly/3e0v8v8) 
 
 > ### **Airflow**:
 
