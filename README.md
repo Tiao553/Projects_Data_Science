@@ -63,4 +63,4 @@ My credentials include student in Bachelor of Control and Automation Engineering
 > ### Manipulating data ans good's pratices:
 
 * **Data manipulating with pandas [PT-BR]:** [Link](https://bit.ly/2OLFaId)
-* 
+* **Code otimization in Python [PT-BR]:** [Link](https://bit.ly/3wYRK89)
