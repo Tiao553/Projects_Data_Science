@@ -4,10 +4,4 @@
 
 ---
 
-My credentials include student in Bachelor of Control and Automation Engineering at the Federal University of Itajubá, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
-
-**Background in:** MySQL, SQL, PostgreSQL, SQLite, MongoDB, Redis, Firebase, Java e Python
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-ferreira-de-paula-neto-84673216b/)
-* [Medium](https://medium.com/@sebastiao553)
+Neste repositório vamos alocar trabalhos feitos realizados nos primeiros passos para se tornar um engenheiro de dados.
